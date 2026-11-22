@@ -61,7 +61,7 @@ export const teamMembers: TeamMember[] = [
     category: "direction",
     initials: "MD",
     tagline: "Rigueur comptable, pilotage budgétaire des chantiers & conformité financière.",
-    bio: "Garant de la santé financière et de la conformité comptable de FIDELE SARL, Mr Dieng supervise la gestion budgétaire des marchés, la comptabilité générale et la trésorerie.",
+    bio: "Garant de la santé financière et de la conformité comptable de FIDELE SARL, Mr Dieng supervise parfaitement la gestion budgétaire des marchés, la comptabilité générale et la trésorerie.",
     specialties: ["Comptabilité BTP", "Contrôle Budgétaire de Chantier", "Gestion Financière & Fiscale"],
     keyProjects: ["Gestion Budgétaire Quai Ouakam", "Contrôle Financier Projets", "Audit & Clôtures"],
     email: "comptabilite@fidele.sn",
